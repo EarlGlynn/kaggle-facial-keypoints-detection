@@ -2,4 +2,4 @@
 
 Exploratory analysis of Kaggle Facial Keypoints Detection data.
 
-See [Facial Keypoints Detection ](https://www.kaggle.com/c/facial-keypoints-detection) for details about this Kaggle project.
+See [web page](http://earlglynn.github.io/kaggle-facial-keypoints-detection/) to review HTML versions of Jupyter notebooks.
